@@ -1,0 +1,13 @@
+.outer-div{
+    border: dotted 4px blue;
+    
+
+
+}
+.inner-div{
+    border:solid 3px purple;
+    padding: 20px;
+    margin: 5%; 
+    text-align: center;
+
+}
